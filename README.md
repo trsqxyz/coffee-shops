@@ -1,4 +1,8 @@
 # coffee-shops
+
+# Usage
+`python -m delivery`
+
 ## Beans available
 - Fuglen Coffee Roasters http://fuglencoffee.com/
 - ONIBUS Coffee http://onibuscoffee.com/

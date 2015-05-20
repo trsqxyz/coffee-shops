@@ -7,7 +7,7 @@
 - Fuglen Coffee Roasters http://fuglencoffee.com/
 - ONIBUS Coffee http://onibuscoffee.com/
 - Switch Coffee Tokyo http://www.switchcoffeetokyo.com/
-- Nozy Coffee http://ncrs.theshop.jp/
+- Nozy Coffee http://www.nozycoffee-webshop.jp/
 - NAKAMURA COFFEE ROASTERs http://ncrs.theshop.jp/
 - AMAMERIA ESSPRESSO http://amameria.cart.fc2.com/
 - haze https://www.facebook.com/haze.coffee

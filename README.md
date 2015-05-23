@@ -15,3 +15,5 @@
 - OBSCURA COFFEE ROASTERS http://obscura-coffee.com/
 - kuma coffee http://www.kumacoffee.com/
 - Market Lane Coffee http://marketlane.com.au/
+- Counter Culture Coffee https://counterculturecoffee.com/
+- Kaffa Roastery https://www.kaffaroastery.fi/
